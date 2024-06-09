@@ -22,7 +22,7 @@ Welcome to my project showcase! In this repository, you will find a collection o
 
 | No. | Project | Tools | Steps & Keywords | Description |
 | --- | ------- | ----- | ---------------- | ----------- |
-| 5 | 💵 [Portfolio Optimisation with Monte Carlo Simulation](https://github.com/namanh-ph/Portfolio-Optimisation-with-Monte-Carlo-Simulation) | Python | Portfolio optimisation, Monte Carlo simulation, risk-return analysis, portfolio construction, sharpe ratio, stock market analysis, financial modelling | This project explores the optimisation of stock portfolios from Vietnam's VN30 index through Monte Carlo simulation. Through risk-return analysis, constructing and evaluating portfolios with diverse stock allocations, my aim is to identify the optimal balance between annual return and volatility for superior portfolio performance. |
+| 5 | 💵 [Portfolio Optimisation with Monte Carlo Simulation](https://github.com/namanh-ph/Portfolio-Optimisation-with-Monte-Carlo-Simulation) | Excel, Python | Portfolio optimisation, Monte Carlo simulation, risk-return analysis, portfolio construction, sharpe ratio, stock market analysis, financial modelling | This project explores the optimisation of stock portfolios from Vietnam's VN30 index through Monte Carlo simulation. Through risk-return analysis, constructing and evaluating portfolios with diverse stock allocations, my aim is to identify the optimal balance between annual return and volatility for superior portfolio performance. |
 
 ### Business Case Studies
 
