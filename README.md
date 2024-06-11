@@ -28,7 +28,7 @@ Welcome to my project showcase! In this repository, you will find a collection o
 
 | No. | Project | Tools | Steps & Keywords | Description |
 | --- | ------- | ----- | ---------------- | ----------- |
-| 6 | ⚙️ [Blockchain Appplication Using Ethereum Smart Contracts And Solidity](https://github.com/namanh-ph/Blockchain-App-using-Etherium-Smart-Contract-Solidity) | Ethereum, Truffle, Ganache, Solidity, javascript | Smart Contracts, Blockchain, Solidity, Ethereum, Deployment, Testing | This project aims to create and deploy a blockchain application (a simple to-do list) using Ethereum and Solidity. This includes the development of smart contracts and their testing and deployment on the Ethereum network, utilising Truffle and Ganache for a robust development environment. |
+| 6 | ⚙️ [Blockchain Appplication Using Ethereum Smart Contracts And Solidity](https://github.com/namanh-ph/Blockchain-App-using-Etherium-Smart-Contract-Solidity) | Ethereum, Truffle, Ganache, Solidity, Web3.js | Smart Contracts, Blockchain, Decentralized Applications (dApps), Deployment, Testing | This project aims to create and deploy a blockchain application (a simple to-do list) using Ethereum and Solidity. This includes the development of smart contracts and their testing and deployment on the Ethereum network, utilising Truffle and Ganache for a robust development environment. |
 
 ### Business Case Studies
 
