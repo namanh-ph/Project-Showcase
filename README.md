@@ -19,7 +19,7 @@ Welcome to my project showcase! In this repository, you will find a collection o
 | 3 | 💹 [ARIMA-GARCH Stock Price Volatility Prediction](https://github.com/namanh-ph/ARIMA-GARCH-Stock-Price-Volatility-Prediction) | Python | Time-series analysis, ARIMA, GJR-GARCH | Predicting the stock market's movements remains an arduous challenge, and one approach to accomplish this lies in the development of stock market prediction models, leveraging historical data and advanced analytical techniques to anticipate future market trends. This study aims to perform a price volatility prediction, using the combination of ARIMA and GARCH model. |
 | 4 | 💻 [Stock Price Prediction - LSTM vs Transformer](https://github.com/namanh-ph/Stock-Price-Prediction-LSTM-vs-Transformer) | Python | Time-series analysis, RNN, Transformer | The topic of predicting stock market price has numerous approaches, with a variety of models to choose and implement. In this case, my aim is to evaluate and compare the performance of two neural network architecture - LSTM (Long Short-Term Memory) and Transformer - in predicting the closing price of a stock. |
 
-### Financial Analysis
+### Financial Modelling
 
 | No. | Project | Tools | Steps & Keywords | Description |
 | --- | ------- | ----- | ---------------- | ----------- |
